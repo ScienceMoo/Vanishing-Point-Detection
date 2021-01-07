@@ -1,3 +1,3 @@
 # Vanishing-Point-Detection
 Example:
-![vanishing_point.jpg](vanishing_point.jpg)
+![result.JPG](result.JPG)

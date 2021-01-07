@@ -1,8 +1,0 @@
-# Vanishing-Point-Detection
-Step 1: Detect edges 
-* [detectZeroCrossings.m](detectZeroCrossings.m)
-* [test_detectZeroCrossings.m](test_detectZeroCrossings.m)
-![zero_crossings.m](detectZeroCrossings.m)
-Step 2: Hough transform to identify vanishing point 
-* [Hough.m](Hough.m)
-* [test_Hough.m](test_Hough.m)
